@@ -51,36 +51,47 @@ body{
 .column-1{
     width: 100%;
     float: left;
+    text-align: center;
+    background:linear-gradient(30deg, rgba(220, 20, 60, 0.762),rgba(160, 81, 45, 0.57), rgba(65, 105, 225, 0.521), rgba(205, 92, 92, 0.625), rgba(128, 0, 128, 0.756))
 }
 
 .column-2{
     width: 50%;
     float: left;
+    text-align: center;
+    background:linear-gradient(30deg, rgb(20, 170, 220),rgb(45, 160, 131), rgb(65, 225, 153), rgb(126, 205, 92), rgb(128, 122, 0))
 }
 
 .column-3{
     width: 33.33%;
     float: left;
+    text-align: center;
+    background:linear-gradient(30deg, rgba(220, 20, 60, 0.722),rgba(160, 45, 146, 0.574), rgba(190, 65, 225, 0.596), rgba(135, 92, 205, 0.678), rgba(70, 0, 128, 0.618))
 }
 
 .column-4{
     width: 25%;
     float: left;
+    text-align: center;
+    background:linear-gradient(30deg, rgba(220, 20, 60, 0.752),rgba(160, 81, 45, 0.599), rgba(65, 105, 225, 0.703), rgba(205, 92, 92, 0.714), rgba(128, 0, 128, 0.829))
 }
 
 .column-5{
     width: 20%;
     float: left;
+    text-align: center;
 }
 
 .column-6{
     width: 16.66%;
     float: left;
+    text-align: center;
 }
 
 .column-75{
     width: 75%;
     float: left;
+    text-align: center;
 }
 
 /* Otras clases */
